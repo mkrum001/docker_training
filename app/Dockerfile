@@ -1,6 +1,6 @@
 FROM alpine
 
-WORKDIR /usr/nodeapp
+WORKDIR /var/nodeapp
 COPY ./ ./
 RUN apk add --update npm
 RUN npm install
