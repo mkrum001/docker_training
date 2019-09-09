@@ -1,5 +1,4 @@
     #mkrum001
-
 FROM ubuntu:latest
 
 RUN apt update
