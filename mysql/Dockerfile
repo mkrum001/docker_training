@@ -1,4 +1,4 @@
-#mkrum001
+#mkrum001  test
 FROM ubuntu:latest
 
 RUN apt update
